@@ -31,11 +31,6 @@ I'm a Computer Science graduate student with a concentration in Data Science at 
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiharsha009&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-harsha-chapala-0632751a1/)  
