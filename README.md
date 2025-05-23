@@ -32,7 +32,7 @@ I'm a Computer Science graduate student with a concentration in Data Science at 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiharsha009&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiharsha009&layout=compact&theme=radical)
 
 ---
