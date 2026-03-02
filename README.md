@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Sai Harsha Chapala
 
-I’m a Data Analyst with 4+ years of experience in banking, risk, and compliance analytics, currently based in the United States. I specialize in SQL, Python, and business intelligence tools to transform complex datasets into actionable insights that drive decision-making.
-
-My experience spans enterprise audit analytics at Citi, banking data analytics at Cognizant, and advanced data science research during my Master’s in Computer Science (Data Science concentration) at UNC Charlotte. I focus on building scalable data solutions, optimizing queries, automating workflows, and designing executive dashboards.
+I’m a Data Analyst with 4+ years of experience in banking, risk, and compliance analytics, currently based in the United States. I specialize in SQL, Python, and business intelligence tools to transform complex datasets into actionable insights that drive decision-making.My experience spans enterprise audit analytics at Citi, banking data analytics at Cognizant, and advanced data science research during my Master’s in Computer Science (Data Science concentration) at UNC Charlotte. I focus on building scalable data solutions, optimizing queries, automating workflows, and designing executive dashboards.
 ---
 
 🔎 What I Work On
