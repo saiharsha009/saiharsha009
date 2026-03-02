@@ -1,25 +1,36 @@
 # 👋 Hi, I'm Sai Harsha Chapala
 
-🚀 Software Developer | Data Enthusiast | Cloud Certified | Full Stack Developer | Backend Engineer | Python | SQL | AWS | Tableau
+I’m a Data Analyst with 4+ years of experience in banking, risk, and compliance analytics, currently based in the United States. I specialize in SQL, Python, and business intelligence tools to transform complex datasets into actionable insights that drive decision-making.
 
-I'm a Computer Science graduate student with a concentration in Data Science at the University of North Carolina at Charlotte. I currently serve as a Teaching Assistant and Software Developer, mentoring students and building instructional tools while also contributing to backend and data-driven development projects. I have 3+ years of experience building full-stack web apps, optimizing backend systems, and delivering data-driven solutions using Python, Django, and SQL across industries like finance and education.
-
+My experience spans enterprise audit analytics at Citi, banking data analytics at Cognizant, and advanced data science research during my Master’s in Computer Science (Data Science concentration) at UNC Charlotte. I focus on building scalable data solutions, optimizing queries, automating workflows, and designing executive dashboards.
 ---
 
-## 💼 Currently:
-👨‍💻 Building and optimizing full-stack applications with Django, MySQL, and modern JS frameworks
-📊 Visualizing trends and performance metrics with Tableau & Recharts  
-☁️ Gaining deeper cloud expertise via AWS, Azure & GCP  
-🎓 M.S. in Computer Science – UNC Charlotte (GPA: 3.9)
+🔎 What I Work On
 
----
+📊 Data Analytics & Reporting Automation
 
-## 🧠 Technical Skills:
-**Languages:** Python, JavaScript, Java, SQL, C++  
-**Frameworks:** Django, Flask, Node.js, React, Streamlit  
-**Cloud & Tools:** AWS (S3, Lambda, EC2), Azure, Docker, Jenkins, Git  
-**Data & Visualization:** Pandas, NumPy, Scikit-learn, Tableau, Power BI, Postman  
-**Concepts:** REST APIs, CI/CD, OOP, Statistical Analysis, A/B Testing, ETL
+🏦 Risk & Compliance Analytics
+
+🧠 Anomaly Detection & Statistical Analysis
+
+⚙️ SQL Performance Optimization
+
+📈 Power BI & Tableau Dashboard Development
+
+☁️ Cloud & Data Platforms (Snowflake, AWS)
+
+🛠 Tech Stack
+
+Languages: SQL, Python
+Analytics: Pandas, NumPy, Statistical Analysis
+BI Tools: Power BI, DAX, Tableau
+Databases: Snowflake, PostgreSQL, MySQL
+ETL & Data Engineering: Informatica, Alteryx, Data Modeling
+Cloud: AWS
+
+🎯 Current Focus
+
+Building efficient, scalable analytics solutions that improve data accuracy, automate reporting workflows, and support data-driven business decisions in banking and enterprise environments.
 
 ---
 
